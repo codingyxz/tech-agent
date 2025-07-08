@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tech-asm" />
-        <module name="agent-attach" />
         <module name="agent-base" />
-        <module name="agent-server" />
+        <module name="static-method-agent" />
         <module name="agent-hot-dev" />
         <module name="agent-arthas" />
+        <module name="tech-asm" />
+        <module name="agent-attach" />
+        <module name="simple-jar" />
+        <module name="constructor-method-agent" />
+        <module name="agent-server" />
+        <module name="instance-method-agent" />
+        <module name="bytebuddy-start" />
+        <module name="jdk-agent" />
       </profile>
     </annotationProcessing>
   </component>

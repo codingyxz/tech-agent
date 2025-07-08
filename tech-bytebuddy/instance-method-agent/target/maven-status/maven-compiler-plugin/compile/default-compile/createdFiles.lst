@@ -1,0 +1,9 @@
+com/yxz/agent/instance/InstanceTransformer.class
+com/yxz/agent/instance/TestService01.class
+com/yxz/agent/instance/YoTestAnno.class
+com/yxz/agent/instance/InstanceListener.class
+com/yxz/agent/instance/InstancePreMainClass.class
+com/yxz/agent/instance/InstanceInterceptor.class
+com/yxz/agent/instance/YoCallLog.class
+com/yxz/agent/instance/TestService02.class
+com/yxz/agent/instance/InstanceMainClass.class

@@ -1,0 +1,6 @@
+com/yxz/agent/staticc/StaticPreMainClass.class
+com/yxz/agent/staticc/StaticTransformer.class
+com/yxz/agent/staticc/StaticMainClass.class
+com/yxz/agent/staticc/StaticInterceptor.class
+com/yxz/agent/staticc/StaticUtils.class
+com/yxz/agent/staticc/StaticPreMainClass$1.class
