@@ -1,4 +1,0 @@
-com/yxz/agent/jdk/ByteBuddyTransformer.class
-com/yxz/agent/jdk/MainClass.class
-com/yxz/agent/jdk/AgentClass.class
-com/yxz/agent/jdk/HelloService.class
